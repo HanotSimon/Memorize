@@ -17,11 +17,13 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.0",
+    "react-native-dotenv": "^3.4.11",
     "react-native-url-polyfill": "^3.0.0",
     "react-native-web": "^0.21.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "babel-preset-expo": "^55.0.10"
   },
   "gitHead": "cb7062e2c17d1fb09522834aaaac0e19b766df62",
   "private": true
